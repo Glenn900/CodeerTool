@@ -1,0 +1,14 @@
+<tuples>
+	<tuple>
+		<antecedent>a</antecedent>
+		<consequent>b</consequent>
+		<support>c</support>
+		<confidence>d</confidence>
+	</tuple>
+	<tuple>
+		<antecedent>e</antecedent>
+		<consequent>f</consequent>
+		<support>g</support>
+		<confidence>h</confidence>
+	</tuple>
+</tuples>
